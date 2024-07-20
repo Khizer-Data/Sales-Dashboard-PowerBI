@@ -1,1 +1,6 @@
-Images
+This folder Images contain 4 screenshot 
+
+Overview Page
+Sales Analysis Page
+Profitability Page
+Customer Insights Page
